@@ -10,7 +10,7 @@
 
 <p align="justify">
 
-통합 인력관리 솔루션인 시프티([Shiftee](https://shiftee.io/ko?gclid=CjwKCAiA5sieBhBnEiwAR9oh2gcZnB8idrHRqf49kkzHCr7BNIxlmtbeziq9Bjp6d2mz3L8FeWVO4RoCst4QAvD_BwE))를 클론코딩
+통합 인력관리 솔루션인 시프티([Shiftee](https://shiftee.io/ko?gclid=CjwKCAiA5sieBhBnEiwAR9oh2gcZnB8idrHRqf49kkzHCr7BNIxlmtbeziq9Bjp6d2mz3L8FeWVO4RoCst4QAvD_BwE))를 참고하여 만든 인력관리 솔루션!
 
 회사 직원들의 근무일정을 설정할 수 있으며, 출퇴근기록 확인!
 
