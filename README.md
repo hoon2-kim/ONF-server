@@ -21,7 +21,7 @@
 
 ## 백엔드 기술 스택
 
-Javascript, Typescript, NestJS, TypeORM, GraphQL, MySQL, Redis, Docker, GCP
+Javascript, Typescript, NestJS, TypeORM, GraphQL, MySQL, Docker, GCP
 
 
 <br>
