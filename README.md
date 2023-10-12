@@ -14,7 +14,7 @@
 
 회사 직원들의 근무일정을 설정할 수 있으며, 출퇴근기록 확인!
 
-### [URL] : https://onf.brian-hong.tech/
+### [URL] : https://onf.brian-hong.tech/ (비용문제로 배포 중단)
 </p>
 
 <br>
