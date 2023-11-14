@@ -53,7 +53,10 @@ Javascript, Typescript, NestJS, TypeORM, GraphQL, MySQL, Docker, GCP
  
 <br>
 
-## 
+## ERD
+<div align = 'center'>
+<img src="https://user-images.githubusercontent.com/108543999/215436064-dbb53aef-59ae-4d69-b9b8-5af6a3828138.png">
+</div>
 
 <p align="justify">
 
