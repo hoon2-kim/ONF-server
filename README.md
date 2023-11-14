@@ -28,13 +28,29 @@ Javascript, Typescript, NestJS, TypeORM, GraphQL, MySQL, Docker, GCP
 
 ## 담당 역할
 
-- 근무일정 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/schedules)
-- 출퇴근기록 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/workChecks)
-- 공지사항 게시판 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/noticeBoards)
-- 초대코드 이메일 전송 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/invitationCode)
-- 직원 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/members)
-- 근무일정 템플릿 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/scheduleTemplates)
-- 근무일정 카테고리 API [바로가기](https://github.com/hoon2-kim/ONF-server/tree/develop/src/apis/scheduleCategories)
+- 근무일정 API
+  - 멤버의 근무일정 조회(특정일자, 한달, 선택한 기간)
+  - 멤버의 근무일정 생성
+  - 멤버의 근무일정 단일 수정 및 다수 수정
+  - 멤버의 근무일정 단일 삭제 및 다수 삭제
+- 근무일정 템플릿 API
+  - 근무일정 템플릿 CURD
+- 근무일정 카테고리 API
+  - 근무일정 카테고리 CURD
+- 출퇴근기록 API
+  - 내 출퇴근 기록 조회
+  - 회사 지점에 속한 멤버들의 출퇴근 기록 조회(월별, 지정된 기간)
+  - 현재 출퇴근 여부 확인
+  - 출근하기 및 퇴근하기
+  - 관리자용 출퇴근기록 생성
+  - 근무노트 생성
+  - 출퇴근 기록 단일 및 다수 수정
+  - 출근기록 단일 삭제 및 다수 삭제
+- 공지사항 게시판 API
+  - 공지사항 게시판 CURD
+- 초대코드 전송 API
+  - nodemailer를 통한 이메일 전송 구현
+ 
 <br>
 
 ## 
